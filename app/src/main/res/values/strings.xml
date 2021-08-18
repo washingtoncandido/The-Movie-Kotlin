@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SearchGoogle</string>
+    <string name="search_for_apps_and_games">search for apps and games</string>
+    <string name="games">Jogos</string>
+    <string name="apps">Apps</string>
+    <string name="movie">Filmes</string>
+    <string name="books">Livros</string>
+    <string name="titile_movie">Titulo Filme</string>
+    <string name="data_lan_amento">data Lançamento</string>
+</resources>
