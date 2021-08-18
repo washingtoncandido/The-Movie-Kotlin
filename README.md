@@ -32,4 +32,6 @@
 + Constraints
 + Estrutura If
 
-https://user-images.githubusercontent.com/69988521/129927719-0715fe63-48ad-4215-addf-d85a8c564a39.mp4
+
+https://user-images.githubusercontent.com/69988521/129927950-4d413668-9fcc-44e1-85f6-fdf04a3e3f5c.mp4
+
