@@ -9,7 +9,7 @@
 
 
 
-## Funcionalidades
+## Funcionalidade
 
 + Lista filmes Populares
 
