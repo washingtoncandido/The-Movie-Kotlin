@@ -19,8 +19,7 @@
 + MVP
 + Criação de compontes (layout)
 + Tratamento de exceções 
-+ retaforação de codigo
-+ criação do menu
++ Retaforação de codigo
 
 ## Componente e blibliotecas
 
