@@ -13,7 +13,7 @@
 
 + Lista filmes Populares
 
-## Funcionalidade em desenvolvimento
+## Funcionalidade em Desenvolvimento
 
 + Detalhes do filme
 + MVP
