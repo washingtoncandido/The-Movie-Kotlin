@@ -11,7 +11,6 @@ data class MovieResponse(
     val movies:List<Result>
 ):Parcelable{
   constructor():this(mutableListOf())
-
 }
 
 

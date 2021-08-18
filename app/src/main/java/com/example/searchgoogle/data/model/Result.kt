@@ -19,5 +19,3 @@ data class Result(
 ):Parcelable{
     constructor(): this("","","","")
 }
-
-//movie = Result

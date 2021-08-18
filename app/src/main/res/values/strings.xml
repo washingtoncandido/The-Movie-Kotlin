@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">SearchGoogle</string>
-    <string name="search_for_apps_and_games">search for apps and games</string>
-    <string name="games">Jogos</string>
+    <string name="app_name">The movie</string>
     <string name="apps">Apps</string>
     <string name="movie">Filmes</string>
     <string name="books">Livros</string>
