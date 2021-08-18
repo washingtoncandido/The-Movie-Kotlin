@@ -19,7 +19,7 @@
 + MVP
 + Criação de compontes (layout)
 + Tratamento de exceções 
-+ Retaforação de codigo
++ Refatoração do codigo
 
 ## Assuntos abordados:
 
