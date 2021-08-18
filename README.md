@@ -21,7 +21,7 @@
 + Tratamento de exceções 
 + Retaforação de codigo
 
-## Componente e blibliotecas
+## Assuntos abordados:
 
 + Funções
 + List
