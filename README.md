@@ -21,15 +21,15 @@
 + retaforação de codigo
 + criação do menu
 
-## assunsto abordados
+## Componente e blibliotecas
 
 + Funções
 + List
-+ retrofi
++ retrofit
 + Picasso
-+ activity
-+ recyclerView
-+ Constraints
++ Activity
++ RecyclerView
++ ConstraintLayout
 
 
 https://user-images.githubusercontent.com/69988521/129927950-4d413668-9fcc-44e1-85f6-fdf04a3e3f5c.mp4
