@@ -15,7 +15,7 @@
 ## Funcionalidade em desenvolvimento
 
 + Detalhes do filme
-+ MVP ou MVVM
++ MVP
 + Criação de compontes (layout)
 + Tratamento de exceções 
 + retaforação de codigo
